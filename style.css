@@ -1,0 +1,23 @@
+/* Personalize seu site com estas regras de CSS */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    background-color: #007bff !important;
+}
+
+.navbar-brand, .nav-link {
+    color: #fff !important;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+    border-radius: 0.3rem;
+}
+
+.footer {
+    background-color: #007bff;
+    color: #fff;
+}
